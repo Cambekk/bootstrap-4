@@ -23,7 +23,6 @@
 	font-size: 80%;
 	margin: 0px;
 	color: #0f0f0f;
-
 }
 body{
 	padding: 50px 0px 0px 0px;
@@ -41,11 +40,9 @@ body{
 .carousel {
     background:#512DA8;
 }
-
 .carousel-item {
   height: 300px;
 }
-
 .carousel-item img {
     position: absolute;
     top: 0;
