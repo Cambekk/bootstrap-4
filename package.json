@@ -1,31 +1,24 @@
 {
-  "name": "confusion",
+  "name": "webpage",
   "version": "1.0.0",
-  "description": "This is a website for Ristorante Con Fusion",
-  "main": "index.html",
+  "description": "",
+  "main": "index.js",
   "scripts": {
     "start": "npm run lite",
     "test": "echo \"Error: no test specified\" && exit 1",
     "lite": "lite-server"
   },
-  "author": "",
-  "license": "ISC",
-  "devDependencies": {
-    "lite-server": "^2.6.1"
-  },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Cambekk/bootstrap-4.git"
+    "url": "git+https://github.com/Cambekk/coursera-site.git"
   },
+  "author": "",
+  "license": "ISC",
   "bugs": {
-    "url": "https://github.com/Cambekk/bootstrap-4/issues"
+    "url": "https://github.com/Cambekk/coursera-site/issues"
   },
-  "homepage": "https://github.com/Cambekk/bootstrap-4#readme",
-  "dependencies": {
-    "bootstrap": "^4.0.0",
-    "bootstrap-social": "^5.1.1",
-    "font-awesome": "^4.7.0",
-    "jquery": "^3.3.1",
-    "popper.js": "^1.12.9"
+  "homepage": "https://github.com/Cambekk/coursera-site#readme",
+  "devDependencies": {
+    "lite-server": "^2.6.1"
   }
 }
